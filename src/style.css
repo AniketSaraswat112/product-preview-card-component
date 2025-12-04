@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Figtree:ital,wght@0,300..900;1,300..900&family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Outfit:wght@100..900&family=Young+Serif&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Figtree:ital,wght@0,300..900;1,300..900&family=Fraunces:ital,opsz,wght@0,9..144,100..900;1,9..144,100..900&family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Outfit:wght@100..900&family=Young+Serif&display=swap');
+@import "tailwindcss";
+
+:root{
+    --background-color-main: hsl(26, 40%, 92%);
+    --background-color-component: hsl(0, 0%, 100%);
+    --background-color-button: hsl(158, 36%, 37%);
+    --background-color-hover-button: hsl(158, 42%, 18%);
+    --font-color-title: hsl(212, 21%, 14%);
+    --font-color-body: hsl(228, 12%, 48%);
+    --font-color-price: hsl(158, 36%, 37%);
+    --font-color-button: hsl(0, 0%, 100%);
+    --font-family-title: "Fraunces", serif;
+    --font-family-body: "Montserrat", sans-serif;
+}
