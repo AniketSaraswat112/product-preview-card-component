@@ -37,8 +37,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: *Add solution URL here*
-- Live Site URL: *Add Netlify URL here*
+- Solution URL: https://t.co/YCDSjsqjp9
+- Live Site URL: https://product-preview-card-05.netlify.app/
 
 ---
 
