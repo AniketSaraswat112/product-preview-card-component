@@ -29,11 +29,11 @@ Users should be able to:
 
 **Desktop Version**
 
-![](./screenshots/Desktop.png)
+![](./Screenshots/Desktop.png)
 
 **Mobile Version**
 
-![](./screenshots/Mobile.png)
+![](./Screenshots/Mobile.png)
 
 ### Links
 
